@@ -12,7 +12,7 @@ https://github.com/isaacreyes123ir/due_diligence
 
 ## Companyec — Inteligencia Corporativa y Financiera
 Plataforma web en producción diseñada para el análisis de datos empresariales de Ecuador. El sistema procesa e ingesta millones de registros tributarios y corporativos mediante pipelines ETL y scripts de automatización. La infraestructura está construida con Python, bases de datos PostgreSQL alojadas en AWS RDS y entornos contenedorizados con Docker, permitiendo la consulta eficiente de la información a través de APIs REST y dashboards interactivos en el frontend.<br/>
-🔗 Sitio web: https://companyec.com (Repositorio privado)
+🔗 Sitio web: https://companyec.com (Repositorio privado)<br/>
 Buscador Companyec — https://github.com/isaacreyes123ir/company-data - Interfaz V1 (Prototipo)
 
 # 💻 Tech Stack:
