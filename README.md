@@ -6,7 +6,8 @@ Soy Analista Financiero y de Datos orientado a transformar información compleja
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaacreyes123ir/) 
 
 # Selected Projects:
-Due Diligence — Ecuador: Script de automatización en Python diseñado para consultar y consolidar datos públicos de entidades ecuatorianas a partir de un número de RUC. El proyecto extrae información corporativa del SRI, registros de la Función Judicial y títulos académicos de la SENESCYT, destacando por su integración de web scraping, consumo de APIs REST y resolución automatizada de CAPTCHAs utilizando Tesseract OCR. Finalmente, la herramienta orquesta la información procesada y genera un reporte estructurado en Excel, sirviendo como una demostración técnica integral de extracción y estructuración de datos.
+## Due Diligence Ecuador: 
+Script de automatización en Python diseñado para consultar y consolidar datos públicos de entidades ecuatorianas a partir de un número de RUC. El proyecto extrae información corporativa del SRI, registros de la Función Judicial y títulos académicos de la SENESCYT, destacando por su integración de web scraping, consumo de APIs REST y resolución automatizada de CAPTCHAs utilizando Tesseract OCR. Finalmente, la herramienta orquesta la información procesada y genera un reporte estructurado en Excel, sirviendo como una demostración técnica integral de extracción y estructuración de datos.<br/>
 https://github.com/isaacreyes123ir/due_diligence
 
 # 💻 Tech Stack:
