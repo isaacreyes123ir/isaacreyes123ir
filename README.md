@@ -11,7 +11,7 @@ Script de automatización en Python diseñado para consultar y consolidar datos 
 https://github.com/isaacreyes123ir/due_diligence
 
 ## Companyec — Inteligencia Corporativa y Financiera
-Plataforma web en producción diseñada para el análisis de datos empresariales de Ecuador. El sistema procesa e ingesta millones de registros tributarios y corporativos mediante pipelines ETL y scripts de automatización. La infraestructura está construida con Python, bases de datos PostgreSQL alojadas en AWS RDS y entornos contenedorizados con Docker, permitiendo la consulta eficiente de la información a través de APIs REST y dashboards interactivos en el frontend.<br/>
+Plataforma web en producción diseñada para el análisis de datos empresariales de Ecuador. El sistema procesa millones de registros tributarios y corporativos mediante pipelines ETL y scripts de automatización. La infraestructura está construida con Python, bases de datos PostgreSQL y entornos contenedorizados con Docker, alojada en un servidor local Debian. Permite la consulta eficiente de la información a través de APIs REST, dashboards interactivos en el frontend, e integra a JEV, un asistente de inteligencia artificial que se comunica directamente con la base de datos para realizar consultas dinámicas.<br/>
 🔗 Sitio web: https://companyec.com (Repositorio privado)<br/>
 Buscador Companyec: https://github.com/isaacreyes123ir/company-data - Interfaz V1 (Prototipo)
 
