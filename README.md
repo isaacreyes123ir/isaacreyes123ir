@@ -13,6 +13,5 @@ Soy Analista Financiero y de Datos orientado a transformar información compleja
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=isaacreyes123ir&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=isaacreyes123ir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
