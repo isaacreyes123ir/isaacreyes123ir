@@ -15,7 +15,7 @@ Soy Analista Financiero y de Datos orientado a transformar información compleja
 ---
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacreyes123ir&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacreyes123ir&theme=gotham&hide_border=true"/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
