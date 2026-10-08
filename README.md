@@ -25,6 +25,6 @@ Buscador Companyec: https://github.com/isaacreyes123ir/company-data - Interfaz V
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=isaacreyes123ir&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=isaacreyes123ir&theme=gotham&hide_border=true&count_private=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
