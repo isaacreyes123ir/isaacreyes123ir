@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="isaacreyes123ir" src="dark_mode.svg" />
+</picture>
+
+
 # 💫 About Me:
 Soy Analista Financiero y de Datos orientado a transformar información compleja en soluciones accionables. Para el análisis, automatización de procesos e inteligencia corporativa, utilizo principalmente Python, complementado con bases de datos como PostgreSQL en entornos AWS RDS y Docker. En el área de visualización, desarrollo dashboards y mapas interactivos integrando HTML, CSS, JavaScript y R. Mi enfoque técnico abarca desde la recolección de datos y la modelación econométrica hasta el despliegue en servidores Linux, gestionando el ciclo de vida del desarrollo con Git.
 
