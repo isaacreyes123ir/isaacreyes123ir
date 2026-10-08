@@ -1,4 +1,4 @@
-<img src="perfil_ascii.svg" width="100" alt="Mi perfil en ASCII">
+<img src="perfil_ascii.svg?v=1" width="100" alt="Mi perfil en ASCII">
 
 # 💫 About Me:
 Soy Analista Financiero y de Datos orientado a transformar información compleja en soluciones accionables. Para el análisis, automatización de procesos e inteligencia corporativa, utilizo principalmente Python, complementado con bases de datos como PostgreSQL en entornos AWS RDS y Docker. En el área de visualización, desarrollo dashboards y mapas interactivos integrando HTML, CSS, JavaScript y R. Mi enfoque técnico abarca desde la recolección de datos y la modelación econométrica hasta el despliegue en servidores Linux, gestionando el ciclo de vida del desarrollo con Git.
